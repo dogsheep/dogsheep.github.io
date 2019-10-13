@@ -16,3 +16,9 @@ These tools, maintained by the Dogsheep project, let you export your data into a
 * **[genome-to-sqlite](https://github.com/dogsheep/genome-to-sqlite)** imports your genome from [23andMe](https://www.23andme.com/) into a SQLite database.
 * **[github-to-sqlite](https://github.com/dogsheep/github-to-sqlite)** imports repositories you have created or starred on GitHub.
 * **[pocket-to-sqlite](https://github.com/dogsheep/pocket-to-sqlite)** imports articles you have saved using [Pocket](https://getpocket.com/).
+
+## Tools by other developers
+
+These tools help bring the Dogsheep philosophy to life.
+
+* **[goodreads-to-sqlite](https://github.com/rixx/goodreads-to-sqlite)** by Tobias Kunze imports your reading history from [Goodreads](https://www.goodreads.com/).
