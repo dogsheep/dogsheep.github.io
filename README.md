@@ -23,3 +23,4 @@ These tools help bring the Dogsheep philosophy to life.
 
 * **[goodreads-to-sqlite](https://github.com/rixx/goodreads-to-sqlite)** by Tobias Kunze imports your reading history from [Goodreads](https://www.goodreads.com/).
 * **[pinboard-to-sqlite](https://github.com/jacobian/pinboard-to-sqlite)** by Jacob Kaplan-Moss saves your bookmarks from [Pinboard](https://pinboard.in/).
+* **[todoist-to-sqlite](https://github.com/bcongdon/todoist-to-sqlite)** by Ben Congdon saves your tasks and projects from [Todoist](https://todoist.com/).
