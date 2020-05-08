@@ -4,6 +4,8 @@ Dogsheep is a collection of tools for *personal analytics* using [SQLite](https:
 
 Big internet companies know a *lot* about us. By exporting that data back out of them we can see what they know and maybe learn something interesting about ourselves.
 
+Read more about Dogsheep on my blog: https://simonwillison.net/tags/dogsheep/
+
 ## Dogsheep tools
 
 These tools, maintained by the Dogsheep project, let you export your data into a SQLite database for further analysis.
