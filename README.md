@@ -6,6 +6,8 @@ Big internet companies know a *lot* about us. By exporting that data back out of
 
 Read more about Dogsheep on my blog: [simonwillison.net/tags/dogsheep](https://simonwillison.net/tags/dogsheep/)
 
+Watch [Personal Data Warehouses: Reclaiming Your Data](https://simonwillison.net/2020/Nov/14/personal-data-warehouses/) for a demo  of Dogsheep in action.
+
 ## Dogsheep tools
 
 These tools, maintained by the Dogsheep project, let you export your data into a SQLite database for further analysis.
