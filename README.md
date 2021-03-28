@@ -34,3 +34,4 @@ These tools help bring the Dogsheep philosophy to life.
 * **[pinboard-to-sqlite](https://github.com/jacobian/pinboard-to-sqlite)** by Jacob Kaplan-Moss saves your bookmarks from [Pinboard](https://pinboard.in/).
 * **[todoist-to-sqlite](https://github.com/bcongdon/todoist-to-sqlite)** by Ben Congdon saves your tasks and projects from [Todoist](https://todoist.com/).
 * **[parkrun-to-sqlite](https://github.com/mrw34/parkrun-to-sqlite)** by Mark Woodbridge imports your [parkruns](https://www.parkrun.com).
+* **[testres-db](https://github.com/ligurio/testres-db)** by Sergey Bronnikov imports software testing results from Continuous Integration services.
