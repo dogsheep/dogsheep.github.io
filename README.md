@@ -15,6 +15,7 @@ These tools, maintained by the Dogsheep project, let you export your data into a
 * **[twitter-to-sqlite](https://github.com/dogsheep/twitter-to-sqlite)** uses the Twitter API or Twitter's "export your data" zip archive to create a database of your tweets, followers, people you follow, favourited tweets and much more besides.
 * **[healthkit-to-sqlite](https://github.com/dogsheep/healthkit-to-sqlite)** converts your Apple HealthKit export into a database, with details of your heart rate, workouts, step count and more.
 * **[swarm-to-sqlite](https://github.com/dogsheep/swarm-to-sqlite)** imports your checkin history from Foursquare Swarm.
+* **[apple-notes-to-sqlite](https://datasette.io/tools/apple-notes-to-sqlite)** saves Apple Notes data to a database.
 * **[inaturalist-to-sqlite](https://github.com/dogsheep/inaturalist-to-sqlite)** imports the wildlife and plants you have spotted on [iNaturalist](https://www.inaturalist.org/).
 * **[google-takeout-to-sqlite](https://github.com/dogsheep/google-takeout-to-sqlite)** imports data from Google Takeout, which can include your Google Maps location history, your search history on Google and more to come.
 * **[genome-to-sqlite](https://github.com/dogsheep/genome-to-sqlite)** imports your genome from [23andMe](https://www.23andme.com/) into a SQLite database.
